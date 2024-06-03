@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175595614099",
+    "project_id": "forbaby-15f47",
+    "storage_bucket": "forbaby-15f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175595614099:android:4f567173f540f661bc0266",
+        "android_client_info": {
+          "package_name": "com.example.forbaby_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARx6X5gRbW1_wwEFLl3eQWDPAstmrnrkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
